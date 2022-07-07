@@ -6,6 +6,12 @@ The purpose of this project was to recreate an arcade machine who gives to possi
 
 The difficulty of this project was to build a program who offers to the player to swap between games and graphical libraries in runtime.
 
+## Requirements
+
+- Ncurses library
+- SFML library
+- SDL2 library
+
 ## Usage
 
 ``` make ```
